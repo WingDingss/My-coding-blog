@@ -29,3 +29,5 @@ function drawTile(across, down, step)
   //let r=random()
   ellipse(random(step),random(step),random(step), random(step))
 ```
+And when all variables are inputted as random, it will always give unique results when testing around, this is what drives my exploration into the current unkown, replacing current variables to see how much
+of a drastic difference it would make to the overall piece on the canvas.
