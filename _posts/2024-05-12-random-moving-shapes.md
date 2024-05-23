@@ -31,3 +31,10 @@ function drawTile(across, down, step)
 ```
 And when all variables are inputted as random, it will always give unique results when testing around, this is what drives my exploration into the current unkown, replacing current variables to see how much
 of a drastic difference it would make to the overall piece on the canvas.
+
+![The chaos of shapes](/My-coding-blog/_posts/images/randomshapes2.png)
+
+Above shown we can see a variation of the code, this time instead of only ellipses, there is now one of every shape present within the random shapes, making a much more expansive in their positioning around the canvas.
+Further testing could reveal much more unique and different approaches by mixing, matching, adding and subtracting different shapes to the overall code block. Not only that, but direction could also be implemented next
+time, giving each shape a longer lifespan to avoid the lag made, along with adding rotation to each shape, providing even more randomness and anarchy.
+
